@@ -1,2 +1,2 @@
 # Getting Started with React
-Simple react app with basic functions like adding, editing and deleting Todos developed using useEffect and useState.
+Simple web app with basic functions like adding, editing and deleting Todos developed using useEffect and useState hooks from react.
